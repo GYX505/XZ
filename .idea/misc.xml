@@ -3,54 +3,29 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/btn_age.xml" value="0.2265" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/btn_child.xml" value="0.2265" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/btn_login.xml" value="0.1225" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/btn_mw.xml" value="0.2265" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/btn_next.xml" value="0.2265" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/btn_radius.xml" value="0.2265" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/btn_self.xml" value="0.2265" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/edit_text.xml" value="0.2265" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/edittext.xml" value="0.2265" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/img.xml" value="0.2265" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/img_logo.xml" value="0.2265" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/imglogo.xml" value="0.1225" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/radio_btn.xml" value="0.2265" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/activity_base.xml" value="0.22826086956521738" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/baseone1.xml" value="0.22826086956521738" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/baseone1_competition1.xml" value="0.22826086956521738" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/baseone2.xml" value="0.22826086956521738" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/fragment_ffirth.xml" value="0.22826086956521738" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/fragment_fthree.xml" value="0.22826086956521738" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/fragment_ftwo.xml" value="0.22826086956521738" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/gyx.xml" value="0.22826086956521738" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/img_logo.xml" value="0.22826086956521738" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/login.xml" value="0.22826086956521738" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/poster.xml" value="0.264" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/register.xml" value="0.22826086956521738" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/select.xml" value="0.25" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/select1.xml" value="0.22826086956521738" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/select2.xml" value="0.22826086956521738" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/select3.xml" value="0.22826086956521738" />
         <entry key="..\:/Dwp/Android Work/XZ/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Dwp/Android Work/XZ/app/src/main/res/layout/login.xml" value="0.25364583333333335" />
         <entry key="..\:/Dwp/Android Work/XZ/app/src/main/res/layout/login2.xml" value="0.25364583333333335" />
-        <entry key="..\:/XZ/app/src/main/res/layout/activity_base.xml" value="0.161231884057971" />
+        <entry key="..\:/XZ/app/src/main/res/layout/activity_base.xml" value="0.1" />
         <entry key="..\:/XZ/app/src/main/res/layout/activity_main.xml" value="0.161231884057971" />
         <entry key="..\:/XZ/app/src/main/res/layout/basefirth.xml" value="0.161231884057971" />
         <entry key="..\:/XZ/app/src/main/res/layout/basefour.xml" value="0.161231884057971" />
         <entry key="..\:/XZ/app/src/main/res/layout/baseone.xml" value="0.161231884057971" />
+        <entry key="..\:/XZ/app/src/main/res/layout/baseone1.xml" value="0.1" />
+        <entry key="..\:/XZ/app/src/main/res/layout/baseone2.xml" value="0.1" />
         <entry key="..\:/XZ/app/src/main/res/layout/basethree.xml" value="0.161231884057971" />
         <entry key="..\:/XZ/app/src/main/res/layout/basetwo.xml" value="0.161231884057971" />
-        <entry key="..\:/XZ/app/src/main/res/layout/fragment_ffirth.xml" value="0.1125" />
-        <entry key="..\:/XZ/app/src/main/res/layout/fragment_ffourth.xml" value="0.1125" />
-        <entry key="..\:/XZ/app/src/main/res/layout/fragment_fone.xml" value="0.16799999999999998" />
-        <entry key="..\:/XZ/app/src/main/res/layout/fragment_fthree.xml" value="0.1125" />
-        <entry key="..\:/XZ/app/src/main/res/layout/fragment_ftwo.xml" value="0.1125" />
+        <entry key="..\:/XZ/app/src/main/res/layout/fragment_fone.xml" value="0.1" />
+        <entry key="..\:/XZ/app/src/main/res/layout/fragment_fthree.xml" value="0.1" />
+        <entry key="..\:/XZ/app/src/main/res/layout/fragment_ftwo.xml" value="0.1" />
+        <entry key="..\:/XZ/app/src/main/res/layout/gyx.xml" value="0.1" />
         <entry key="..\:/XZ/app/src/main/res/layout/login2.xml" value="0.11145833333333334" />
-        <entry key="..\:/XZ/app/src/main/res/layout/poster.xml" value="0.161231884057971" />
+        <entry key="..\:/XZ/app/src/main/res/layout/poster.xml" value="0.1" />
         <entry key="..\:/XZ/app/src/main/res/layout/register.xml" value="0.161231884057971" />
+        <entry key="..\:/XZ/app/src/main/res/layout/test2.xml" value="0.1" />
       </map>
     </option>
   </component>
