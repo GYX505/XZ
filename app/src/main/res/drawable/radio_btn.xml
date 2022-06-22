@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <declare-styleable android:name="MyRadioButton">
+        <attr android:name="rb_width" android:format="dimension"/>
+        <attr android:name="rb_height" android:format="dimension"/>
+    </declare-styleable>
+</resources>
