@@ -31,7 +31,8 @@ public class FoneFragment extends Fragment {
 
         //初始化控件 gyx_serch是首页搜索框
         gyx_serch=(EditText) container.findViewById(R.id.gyx_serch);
-        
+
+
 
         return inflater.inflate(R.layout.fragment_fone, container, false);
     }
