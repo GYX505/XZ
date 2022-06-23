@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/attrs.xml" value="0.2265" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/btn_age.xml" value="0.2265" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/btn_child.xml" value="0.2265" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/btn_login.xml" value="0.1225" />
@@ -18,10 +19,12 @@
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/radio_btn.xml" value="0.2265" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/activity_base.xml" value="0.22826086956521738" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/attrs.xml" value="0.22826086956521738" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/baseone1.xml" value="0.22826086956521738" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/baseone1_competition1.xml" value="0.22826086956521738" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/baseone2.xml" value="0.22826086956521738" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/fragment_ffirth.xml" value="0.22826086956521738" />
+        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/fragment_fone.xml" value="0.22826086956521738" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/fragment_fthree.xml" value="0.22826086956521738" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/fragment_ftwo.xml" value="0.22826086956521738" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/gyx.xml" value="0.22826086956521738" />
