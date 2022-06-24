@@ -4,41 +4,160 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".one.FoneFragment">
-<!--    仅为展示效果，可以修改编辑，fone-ffirth同-->
     <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="200dp">
-
-        <EditText
-            android:id="@+id/gyx_serch"
-            android:layout_width="380dp"
-            android:layout_height="40dp"
-            android:layout_marginLeft="15dp"
-            android:layout_marginTop="15dp"
-            android:hint=" Don‘t touch me!"
-            android:textSize="18sp"
-            android:background="@drawable/gyx_edit_serch"/>
+        android:layout_height="200dp"
+        android:layout_width="match_parent">
         <FrameLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:layout_width="match_parent">
             <LinearLayout
-                android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:layout_width="match_parent"
                 android:orientation="horizontal">
                 <ImageView
                     android:id="@+id/gyx_banner1"
+                    android:layout_height="match_parent"
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"/>
+                    android:src="@drawable/gyx_banner1"
+                    android:scaleType="centerCrop" />
                 <ImageView
                     android:id="@+id/gyx_banner2"
+                    android:layout_height="match_parent"
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"/>
+                    android:src="@drawable/gyx_banner2"
+                    android:scaleType="centerCrop"/>
                 <ImageView
                     android:id="@+id/gyx_banner3"
+                    android:layout_height="match_parent"
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"/>
+                    android:src="@drawable/gyx_banner3"
+                    android:scaleType="centerCrop"/>
             </LinearLayout>
         </FrameLayout>
+        <EditText
+            android:id="@+id/gyx_serch"
+            android:layout_height="30dp"
+            android:layout_width="380dp"
+            android:background="@drawable/edit_text"
+            android:textSize="18sp"
+            android:hint=" Don‘t touch me!"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"/>
+        <androidx.appcompat.widget.SearchView
+            android:id="@+id/gyx_imgserch"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginLeft="355dp"/>
     </RelativeLayout>
+    <LinearLayout
+        android:layout_width="400dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="220dp"
+        android:background="@drawable/gyx_linerlayout">
+        <ImageButton
+            android:id="@+id/gyx_ibbook"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="22dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/gyx_book"/>
+        <ImageButton
+            android:id="@+id/gyx_ibdynamic"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/gyx_dynamic"/>
+        <ImageButton
+            android:id="@+id/gyx_ibcompetition"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/gyx_competition"/>
+        <ImageButton
+            android:id="@+id/gyx_ibschool"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/gyx_school"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="400dp"
+        android:layout_height="20dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="320dp">
+        <TextView
+            android:layout_width="10dp"
+            android:layout_height="match_parent"
+            android:text="|"
+            android:textColor="#FF8B72"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/gyx_talktop"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="热门话题"
+            android:textColor="#FFAD86"
+            android:textStyle="bold"/>
+    </LinearLayout>
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="600dp"
+        android:layout_marginTop="350dp"
+        android:orientation="vertical"
+        android:background="@drawable/gyx_linertalktop">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="15dp">
+            <TextView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="5dp"
+                android:text="  1"
+                android:textColor="@color/white"
+                android:background="@drawable/gyx_textview"/>
+            <ImageButton
+                android:layout_width="390dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/gyx_top1"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="270dp">
+            <TextView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="15dp"
+                android:text="  2"
+                android:textColor="@color/white"
+                android:background="@drawable/gyx_textview"/>
+            <ImageButton
+                android:layout_width="390dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/gyx_top2"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="280dp">
+            <TextView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="25dp"
+                android:text="  3"
+                android:textColor="@color/white"
+                android:background="@drawable/gyx_textview"/>
+            <ImageButton
+                android:layout_width="390dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/gyx_top3"/>
+        </LinearLayout>
+    </LinearLayout>
 </FrameLayout>

@@ -3,6 +3,6 @@
     <!--对按钮圆角化-->
     <corners android:radius="15dp"/>
     <!--设置按钮的背景颜色-->
-    <solid android:color="#D8FFF8"/>
+    <solid android:color="#FFD4E3"/>
     <size android:height="1dp"/>
 </shape>
