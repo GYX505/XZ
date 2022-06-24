@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_type">
+        <item>发起聊天</item>
+        <item>添加好友</item>
+        <item>扫一扫</item>
+    </string-array>
+</resources>

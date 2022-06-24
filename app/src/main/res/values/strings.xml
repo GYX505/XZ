@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">XZ</string>
     <string name="introducer">创新服务,预防与救济双向护航。</string>
+    <string name="chat">聊天记录</string>
+    <string name="contact">联系人</string>
+    <string name="groupchat">群聊</string>
+    <string name="tip_search">搜索</string>
+    <string name="message_s">消息</string>
+    <string name="message_nums">3</string>
+    <string name="guess_you">猜你想搜</string>
 </resources>
