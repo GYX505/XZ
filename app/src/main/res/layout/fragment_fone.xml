@@ -19,13 +19,12 @@
                 android:hint=" Don‘t touch me!"
                 android:layout_marginTop="15dp"
                 android:layout_marginLeft="15dp"/>
-            <ImageButton
+            <androidx.appcompat.widget.SearchView
                 android:id="@+id/gyx_imgserch"
                 android:layout_width="35dp"
                 android:layout_height="35dp"
                 android:layout_marginTop="18dp"
-                android:layout_marginLeft="355dp"
-                android:src="@drawable/gyx_serch"/>
+                android:layout_marginLeft="355dp"/>
             <LinearLayout
                 android:layout_height="match_parent"
                 android:layout_width="match_parent"
@@ -35,7 +34,7 @@
                     android:layout_height="match_parent"
                     android:layout_width="match_parent"
                     android:src="@drawable/gyx_banner1"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop" />
                 <ImageView
                     android:id="@+id/gyx_banner2"
                     android:layout_height="match_parent"
@@ -51,4 +50,40 @@
             </LinearLayout>
         </FrameLayout>
     </RelativeLayout>
+    <LinearLayout
+        android:layout_width="400dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="220dp"
+        android:alpha="0.45"
+        android:background="@drawable/gyx_linerlayout">
+        <ImageButton
+            android:id="@+id/gyx_ibbook"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="28dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/gyx_book"/>
+        <ImageButton
+            android:id="@+id/gyx_ibdynamic"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/gyx_dynamic"/>
+        <ImageButton
+            android:id="@+id/gyx_ibcompetition"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/gyx_competition"/>
+        <ImageButton
+            android:id="@+id/gyx_ibschool"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/gyx_school"/>
+    </LinearLayout>
 </FrameLayout>
