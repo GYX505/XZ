@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login">
+    <ImageButton
+        android:id="@+id/ibtn_back"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/back"/>
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:alpha="0.7"
+        android:background="#FF961C"
+        android:gravity="center"
+        android:text="答题开始："
+        android:textColor="@color/white"
+        android:textSize="10pt"
+        android:textStyle="bold" />
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="450dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:scrollbars="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  1.世界上只有男女两种性别吗？（）"
+            android:textColor="@color/black"
+            android:textSize="6pt" />
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="60dp">
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="A.  是" />
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="B.  不是" />
+        </RadioGroup>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10pt"
+            android:text="  2.基于本质或自我选择，性倾向与性别身份与主流有所差异的群体被称为（）"
+            android:textColor="@color/black"
+            android:textSize="6pt"
+            android:scrollbars="vertical"/>
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="120dp">
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="A.  LGBT" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="B.  MSM" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="C.  FSW" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="D.  PAC" />
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10pt"
+            android:text="  3.一般而言，男性有（）个睾丸，女性有（）个卵巢（）"
+            android:textColor="@color/black"
+            android:textSize="6pt" />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="120dp">
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="A.  1、2" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="B.  2、2" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="C.  2、1" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="D.  1、1" />
+        </RadioGroup>
+    </LinearLayout>
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="20dp"
+        android:text="下一步"
+        android:textSize="8pt"/>
+</RelativeLayout>
