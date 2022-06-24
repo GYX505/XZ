@@ -1,22 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".three.FthreeFragment">
 
-    <!--    仅为展示效果，可以修改编辑，fone-ffirth同-->
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
-        <TextView
-            android:id="@+id/textView"
-            android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="TextView3"
-            android:textSize="40dp"
-            android:layout_marginTop="40dp"
-            />
-    </LinearLayout>
+            android:orientation="horizontal">
 
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="5dp"
+                android:text="@string/message_s"
+                android:textSize="20sp" />
+            <TextView
+                android:id="@+id/message_nums"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/message_nums"
+                android:layout_marginTop="5dp"
+                android:textColor="#f00"/>
+            <Button
+                android:id="@+id/clear_message"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:drawableStart="@drawable/e_clear"
+                android:text="清除未读"
+                android:background="#F5FFFA"
+                />
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="45dp"
+                android:background="@drawable/notice"
+                android:layout_marginStart="100dp"/>
+            <Spinner
+                android:id="@+id/spin"
+                android:layout_width="40dp"
+                android:layout_height="45dp"
+                android:background="@drawable/add_look"
+                android:entries="@array/menu_type"
+                android:spinnerMode="dropdown"/>
+        </LinearLayout>
+        <!-- 搜索框信息 -->
+        <androidx.appcompat.widget.SearchView
+            android:id="@+id/search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/search_border"
+            app:queryHint="@string/tip_search">
+        </androidx.appcompat.widget.SearchView>
+        <ImageView
+            android:id="@+id/img_xing"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/person_xing"/>
+        <ImageView
+            android:id="@+id/img_doctor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/person_doctor"/>
+        <ImageView
+            android:id="@+id/img_qi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/person_qiqi"/>
+        <ImageView
+            android:id="@+id/img_le"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/person_lele"/>
+    </LinearLayout>
 </FrameLayout>

@@ -14,6 +14,21 @@
         android:theme="@style/Theme.XZ"
         tools:targetApi="31">
         <activity
+            android:name=".one.Dynamic_example2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".one.DynamicsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".three.SearchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".three.DialogueActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".three.DialogueActivity1"
+            android:exported="false" />
+        <activity
             android:name=".BaseActivity"
             android:exported="false" />
         <activity
