@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="order">
+        <item>综合</item>
+        <item>信用</item>
+    </string-array>
+    <string-array name="order2">
+        <item>价格区间</item>
+        <item>￥0-19</item>
+        <item>￥20-49</item>
+        <item>￥50-79</item>
+        <item>￥80-99</item>
+        <item>￥100以上</item>
+    </string-array>
+    <string-array name="order3">
+        <item>性别</item>
+        <item>男孩</item>
+        <item>女孩</item>
+    </string-array>
+    <string-array name="order4">
+        <item>年龄段</item>
+        <item>6-12</item>
+        <item>13-16</item>
+        <item>17-20</item>
+    </string-array>
+    <string-array name="order5">
+        <item>类别</item>
+        <item>小说</item>
+        <item>绘本</item>
+    </string-array>
+</resources>
