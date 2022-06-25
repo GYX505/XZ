@@ -13,6 +13,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.XZ"
         tools:targetApi="31">
+        <activity android:name=".gyxselect1"
+            android:exported="false" />
+        <activity android:name=".gyxselect2"
+            android:exported="false"/>
+        <activity android:name=".gyxlogin"/>
         <activity
             android:name=".one.Dynamic_example2Activity"
             android:exported="false" />

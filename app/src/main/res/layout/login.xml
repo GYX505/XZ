@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:toly="http://schemas.android.com/apk/res-auto"
-    tools:context=".MainActivity"
+    tools:context=".gyxlogin"
     android:background="@drawable/login">
 
     <ImageButton
@@ -21,8 +21,8 @@
         android:layout_height="160dp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="120dp"
-        android:src="@drawable/logo"
-        android:alpha="0.8"/>
+        android:alpha="0.8"
+        android:src="@drawable/logo" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -86,10 +86,10 @@
         android:layout_height="40dp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="500dp"
+        android:alpha="0.75"
         android:background="@drawable/btn_login"
         android:text="一键登录/注册"
-        android:textSize="18sp"
-        android:alpha="0.75" />
+        android:textSize="18sp" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -123,6 +123,5 @@
         android:layout_height="50dp"
         android:layout_marginTop="668dp"
         android:textSize="14sp"
-        android:background="@drawable/radio_btn"
         android:text="同意《用户协议》、《隐私政策》、《青少年文明公约》帮助您了解我们、使用和存储情况以及您享有的权利。"/>
 </RelativeLayout>

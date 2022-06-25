@@ -28,12 +28,12 @@ public class FoneFragment extends Fragment {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
         //在这里写Java代码，包括跳转等，foneviewmodel用不到，不用管，其余同理
-
+        View root=inflater.inflate(R.layout.fragment_fone, container, false);
         //初始化控件 gyx_serch是首页搜索框
-        gyx_serch=(EditText) container.findViewById(R.id.gyx_serch);
+        gyx_serch=(EditText) root.findViewById(R.id.gyx_serch);
         
 
-        return inflater.inflate(R.layout.fragment_fone, container, false);
+        return root;
     }
 
     @Override

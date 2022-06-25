@@ -3,34 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/btn_age.xml" value="0.1855" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/btn_self.xml" value="0.1725" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/edit_text.xml" value="0.1725" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/gyx_image.xml" value="0.1725" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/gyx_linerlayout.xml" value="0.1725" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/gyx_linertalktop.xml" value="0.1725" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/gyx_textview.xml" value="0.1725" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1725" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/activity_base.xml" value="0.22826086956521738" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/activity_dialogue2.xml" value="0.20153985507246377" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/activity_dynamic_example2.xml" value="0.1" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/fragment_fone.xml" value="0.264" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/fragment_fthree.xml" value="0.1125" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/gyx_xtclassone.xml" value="0.20153985507246377" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/gyx_xuetang.xml" value="0.20153985507246377" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/login.xml" value="0.22826086956521738" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/personal_information.xml" value="0.20153985507246377" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/poster.xml" value="0.20153985507246377" />
         <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/register.xml" value="0.22826086956521738" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/select1.xml" value="0.20153985507246377" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/select2.xml" value="0.20153985507246377" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/test2.xml" value="0.20153985507246377" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/test_1.xml" value="0.20153985507246377" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/test_2.xml" value="0.20153985507246377" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/test_3.xml" value="0.20153985507246377" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/test_4.xml" value="0.20153985507246377" />
-        <entry key="..\:/2022.3-7/Android Studio/XZ/app/src/main/res/layout/text1.xml" value="0.20153985507246377" />
         <entry key="..\:/Dwp/Android Work/XZ/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Dwp/Android Work/XZ/app/src/main/res/layout/login.xml" value="0.25364583333333335" />
         <entry key="..\:/Dwp/Android Work/XZ/app/src/main/res/layout/login2.xml" value="0.25364583333333335" />
@@ -52,8 +27,16 @@
         <entry key="..\:/Universuty/two_down/AS/shiyan/XZ/app/src/main/res/layout/select3.xml" value="0.20969202898550723" />
         <entry key="..\:/Universuty/two_down/AS/shiyan/XZ/app/src/main/res/layout/test2.xml" value="0.17300724637681159" />
         <entry key="..\:/Universuty/two_down/AS/shiyan/XZ/app/src/main/res/layout/text1.xml" value="0.17300724637681159" />
+        <entry key="..\:/XZ/app/src/main/res/drawable/btn_bg_select.xml" value="0.111" />
+        <entry key="..\:/XZ/app/src/main/res/drawable/btn_mw.xml" value="0.1" />
+        <entry key="..\:/XZ/app/src/main/res/drawable/search_border.xml" value="0.111" />
         <entry key="..\:/XZ/app/src/main/res/layout/activity_base.xml" value="0.1" />
+        <entry key="..\:/XZ/app/src/main/res/layout/activity_dialogue1.xml" value="0.1125" />
+        <entry key="..\:/XZ/app/src/main/res/layout/activity_dialogue2.xml" value="0.16799999999999998" />
+        <entry key="..\:/XZ/app/src/main/res/layout/activity_dynamic_example2.xml" value="0.161231884057971" />
+        <entry key="..\:/XZ/app/src/main/res/layout/activity_dynamics.xml" value="0.161231884057971" />
         <entry key="..\:/XZ/app/src/main/res/layout/activity_main.xml" value="0.161231884057971" />
+        <entry key="..\:/XZ/app/src/main/res/layout/activity_three_search.xml" value="0.2" />
         <entry key="..\:/XZ/app/src/main/res/layout/basefirth.xml" value="0.161231884057971" />
         <entry key="..\:/XZ/app/src/main/res/layout/basefour.xml" value="0.161231884057971" />
         <entry key="..\:/XZ/app/src/main/res/layout/baseone.xml" value="0.161231884057971" />
@@ -61,18 +44,29 @@
         <entry key="..\:/XZ/app/src/main/res/layout/baseone2.xml" value="0.1" />
         <entry key="..\:/XZ/app/src/main/res/layout/basethree.xml" value="0.161231884057971" />
         <entry key="..\:/XZ/app/src/main/res/layout/basetwo.xml" value="0.161231884057971" />
+        <entry key="..\:/XZ/app/src/main/res/layout/fragment_ffirth.xml" value="0.161231884057971" />
         <entry key="..\:/XZ/app/src/main/res/layout/fragment_fone.xml" value="0.1" />
-        <entry key="..\:/XZ/app/src/main/res/layout/fragment_fthree.xml" value="0.1" />
+        <entry key="..\:/XZ/app/src/main/res/layout/fragment_fthree.xml" value="0.16" />
         <entry key="..\:/XZ/app/src/main/res/layout/fragment_ftwo.xml" value="0.1" />
         <entry key="..\:/XZ/app/src/main/res/layout/gyx.xml" value="0.1" />
+        <entry key="..\:/XZ/app/src/main/res/layout/login.xml" value="0.13793103448275862" />
         <entry key="..\:/XZ/app/src/main/res/layout/login2.xml" value="0.11145833333333334" />
         <entry key="..\:/XZ/app/src/main/res/layout/poster.xml" value="0.1" />
         <entry key="..\:/XZ/app/src/main/res/layout/register.xml" value="0.161231884057971" />
+        <entry key="..\:/XZ/app/src/main/res/layout/release.xml" value="0.1" />
+        <entry key="..\:/XZ/app/src/main/res/layout/select1.xml" value="0.16799999999999998" />
+        <entry key="..\:/XZ/app/src/main/res/layout/select2.xml" value="0.1125" />
+        <entry key="..\:/XZ/app/src/main/res/layout/select3.xml" value="0.1125" />
         <entry key="..\:/XZ/app/src/main/res/layout/test2.xml" value="0.1" />
+        <entry key="..\:/XZ/app/src/main/res/layout/test_1.xml" value="0.1125" />
+        <entry key="..\:/XZ/app/src/main/res/layout/test_2.xml" value="0.1125" />
+        <entry key="..\:/XZ/app/src/main/res/layout/test_3.xml" value="0.1125" />
+        <entry key="..\:/XZ/app/src/main/res/layout/test_4.xml" value="0.1125" />
+        <entry key="..\:/XZ/app/src/main/res/layout/text1.xml" value="0.1125" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

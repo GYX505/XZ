@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".gyxselect2">
 
     <ImageButton
         android:id="@+id/ibtn_back"
@@ -55,14 +55,14 @@
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="135dp"
-        android:layout_marginTop="300dp"
+        android:layout_marginTop="250dp"
         android:background="@drawable/btn_age"
         android:text="10后" />
     <Button
         android:id="@+id/btn_00"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="365dp"
+        android:layout_marginTop="315dp"
         android:layout_marginLeft="135dp"
         android:text="00后"
         android:background="@drawable/btn_age"/>
@@ -70,7 +70,7 @@
         android:id="@+id/btn_90"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="430dp"
+        android:layout_marginTop="380dp"
         android:layout_marginLeft="135dp"
         android:text="10后"
         android:background="@drawable/btn_age"/>
@@ -80,14 +80,14 @@
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="135dp"
-        android:layout_marginTop="495dp"
+        android:layout_marginTop="445dp"
         android:background="@drawable/btn_age"
         android:text="10后" />
     <Button
         android:id="@+id/btn_70"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="560dp"
+        android:layout_marginTop="510dp"
         android:layout_marginLeft="135dp"
         android:text="其他年龄层"
         android:background="@drawable/btn_age"/>
@@ -97,7 +97,7 @@
         android:layout_width="130dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="260dp"
-        android:layout_marginTop="650dp"
+        android:layout_marginTop="600dp"
         android:background="@drawable/btn_next"
         android:text="下一步"
         android:textColor="@color/white"
