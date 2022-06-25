@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.poster);
         ImageButton login = findViewById(R.id.btn_next);
         login.setOnClickListener(view -> {
-            Intent intent=new Intent(MainActivity.this,BaseActivity.class);
+            Intent intent=new Intent(MainActivity.this,gyxselect1.class);
             startActivity(intent);
         });
     }
