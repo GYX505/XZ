@@ -124,7 +124,6 @@
         android:layout_marginTop="668dp"
         android:textSize="14sp"
         android:background="@drawable/radio_btn"
-        toly:rb_width="30dp"
-        toly:rb_height="30dp"
+
         android:text="同意《用户协议》、《隐私政策》、《青少年文明公约》帮助您了解我们、使用和存储情况以及您享有的权利。"/>
 </RelativeLayout>

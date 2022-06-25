@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="order">
+        <item>综合</item>
+        <item>信用</item>
+    </string-array>
+</resources>
