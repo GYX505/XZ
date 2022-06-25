@@ -24,7 +24,6 @@
             android:layout_width="380dp"
             android:layout_height="wrap_content"
             android:background="@drawable/search_border"
-            android:theme="@style/color_text"
             app:queryHint="必看书本"
             tools:ignore="MissingConstraints" />
     </RelativeLayout>

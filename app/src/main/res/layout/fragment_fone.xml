@@ -11,8 +11,6 @@
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
-            android:layout_height="match_parent"
-            android:layout_width="match_parent">
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -21,20 +19,20 @@
                     android:id="@+id/gyx_banner1"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                android:src="@drawable/gyx_banner1"
-                android:scaleType="centerCrop" />
+                    android:src="@drawable/gyx_banner1"
+                    android:scaleType="centerCrop" />
                 <ImageView
                     android:id="@+id/gyx_banner2"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                android:src="@drawable/gyx_banner2"
-                android:scaleType="centerCrop"/>
+                    android:src="@drawable/gyx_banner2"
+                    android:scaleType="centerCrop"/>
                 <ImageView
                     android:id="@+id/gyx_banner3"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                android:src="@drawable/gyx_banner3"
-                android:scaleType="centerCrop"/>
+                    android:src="@drawable/gyx_banner3"
+                    android:scaleType="centerCrop"/>
             </LinearLayout>
         </FrameLayout>
         <EditText

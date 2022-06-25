@@ -29,27 +29,9 @@ public class FfourthFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.commodity,container,false);
+        View view = inflater.inflate(R.layout.fragment_ffourth,container,false);
 //        Intent intent = new Intent(getActivity(),PicActivity.class);
 //        startActivity(intent);
-        myspinner = (Spinner)view.findViewById(R.id.spinner_1);
-        myspinner.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                String select_item=parent.getItemAtPosition(position).toString();
-                switch (select_item){
-                    case "纵向排序":
-                        Toast.makeText(getActivity(),"已设置成纵向排列",Toast.LENGTH_SHORT).show();
-                        break;
-                    case "瀑布流":
-                        Toast.makeText(getActivity(),"已设置成瀑布流排列",Toast.LENGTH_SHORT).show();
-                        break;
-                    default:
-                        break;
-                }
-            }
-
-        });
         return view;
     }
 
